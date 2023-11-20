@@ -1,7 +1,3 @@
-Sure! Here's a `README.md` file for a project dedicated to explaining various design patterns using Java:
-
----
-
 # Design Patterns in Java
 
 This repository is dedicated to demonstrating various design patterns implemented in Java. Design patterns represent the best practices used by experienced object-oriented software developers, offering solutions to common problems in software design.
