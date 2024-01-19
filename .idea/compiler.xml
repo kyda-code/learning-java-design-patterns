@@ -10,6 +10,7 @@
         <module name="factory-method" />
         <module name="template-method" />
         <module name="interpreter" />
+        <module name="ChainOfResponsibility" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
