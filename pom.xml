@@ -20,6 +20,7 @@
         <module>adapter</module>
         <module>bridge</module>
         <module>visitor</module>
+        <module>state</module>
     </modules>
 
     <properties>
