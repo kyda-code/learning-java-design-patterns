@@ -18,6 +18,7 @@
         <module>prototype</module>
         <module>builder</module>
         <module>adapter</module>
+        <module>bridge</module>
     </modules>
 
     <properties>
