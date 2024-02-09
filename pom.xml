@@ -22,6 +22,7 @@
         <module>visitor</module>
         <module>state</module>
         <module>memento</module>
+        <module>mediator</module>
     </modules>
 
     <properties>
