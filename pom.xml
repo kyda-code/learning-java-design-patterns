@@ -21,6 +21,7 @@
         <module>bridge</module>
         <module>visitor</module>
         <module>state</module>
+        <module>memento</module>
     </modules>
 
     <properties>
